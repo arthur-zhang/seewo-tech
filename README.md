@@ -4,8 +4,8 @@
 
 贡献者：
 
-@Taaang
-@IKNOWLJT
-@arthur-zhang
+- [Taaang](https://github.com/Taaang)
+- [IKNOWLJT](https://github.com/IKNOWLJT)
+- [arthur-zhang](https://github.com/arthur-zhang)
 
 排名部分先后
